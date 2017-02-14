@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <name>Browser Notification</name>
+    <name>Show Loading</name>
     <key>showloading</key>
     <state>stable</state>
     <logo>https://raw.githubusercontent.com/edgardmessias/showloading/master/plugin.gif</logo>
