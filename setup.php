@@ -74,6 +74,7 @@ function plugin_version_showloading() {
       'version'        => PLUGIN_SHOWLOADING_VERSION,
       'author'         => 'Edgard Lorraine Messias',
       'homepage'       => 'https://github.com/edgardmessias/showloading',
+      'license'        => 'BSD-3-Clause',
       'minGlpiVersion' => '0.85'
    );
 }
